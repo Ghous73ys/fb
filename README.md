@@ -1,1 +1,1 @@
-# paint-github-0de67
+# School Notes
